@@ -33,3 +33,7 @@ Questo ha portato a non implementare i costruttori di copia e di spostamento
  umano può decidere con il comando 'show' di visualizzare il tabellone, le
  proprietà ed il budget; questo viene gestito appunto tramite valori int
  (0=no, 1=sì, 2=show).
+
+
+Autori: Boscardin Tommaso, Celant Filippo, Fantin Luca.
+
